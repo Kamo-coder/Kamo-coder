@@ -12,11 +12,11 @@
 Tools: Git, Docker,GitLab,Github, Arduino, Raspberrypi
 
  📂 Projects
- [Mine PPE Access app](https://github.com/Kamo-coder/) 
+ [Mine PPE Access app](https://github.com/Kamo-coder/PPE_Access_Control) 
 
 [KasiEats](https://github.com/Kamo-coder/DineQR)
 
-[Personal Profile](https://github.com/Kamo-coder/)
+[Personal Profile](https://github.com/Kamo-coder/Kamo_Portfolio)
 
 📄 CV
 
