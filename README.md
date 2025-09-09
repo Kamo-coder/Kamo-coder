@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋, I am Kamogelo Sefadi
+🎓 Software Engineering Student at Belgium Campus iTversity 
 
-<!--
-**Kamo-coder/Kamo-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Passionate about AI, IoT, and Sustainable Tech 
 
-Here are some ideas to get you started:
+💼 Seeking internship/graduate opportunities in Cybersecurity, DevOps and software development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+
+ Programming: Python, HTML,CSS, TypeScript, JavaScript, SQL
+
+Tools: Git, Docker,GitLab,Github, Arduino, Raspberrypi
+
+ 📂 Projects
+ [Mine PPE Access app] 
+
+[KasiEats] 
+
+[Personal Profile] 
+
+📄 CV
+
+[Download My CV]((https://kamo-portfolio-six.vercel.app/Current_CV.pdf)) 
