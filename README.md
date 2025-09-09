@@ -20,4 +20,5 @@ Tools: Git, Docker,GitLab,Github, Arduino, Raspberrypi
 
 📄 CV
 
-[Download My CV]((https://kamo-portfolio-six.vercel.app/Current_CV.pdf)) 
+[Download My CV]((https://kamo-portfolio-six.vercel.app/Current_CV.pdf))
+https://github.com/Kamo-coder/CV/blob/main/Current_CV.pdf
